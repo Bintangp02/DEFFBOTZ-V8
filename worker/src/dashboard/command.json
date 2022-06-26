@@ -1,7 +1,7 @@
 [
   {
     "nama": "#menu",
-    "count": 4
+    "count": 7
   },
   {
     "nama": "#addlist",
@@ -14,5 +14,21 @@
   {
     "nama": "#getcase",
     "count": 2
+  },
+  {
+    "nama": "#donate",
+    "count": 1
+  },
+  {
+    "nama": "#ping",
+    "count": 1
+  },
+  {
+    "nama": "#owner",
+    "count": 1
+  },
+  {
+    "nama": "#antilink",
+    "count": 1
   }
 ]

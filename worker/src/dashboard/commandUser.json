@@ -19,5 +19,49 @@
         "count": 2
       }
     ]
+  },
+  {
+    "jid": "6287713135608@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289647417373@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#ping",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "628972139516@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#owner",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285724304274@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#antilink",
+        "count": 1
+      }
+    ]
   }
 ]

@@ -27,8 +27,16 @@ const spinnies = new Spinnies({
 	},
 });
 const Store = require("./worker/lib/Functions/Store.js") //makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+/////////////
+const express = require('express')
+const app = express()
 
+app.get('/', function (req, res) {
+  res.send('Hello World')
+})
 
+app.listen(3000)
+//////////////////
 async function __START() {
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const sock = sockConnect({
