@@ -7,10 +7,10 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289647417373','6281263409730']
-global.footer = "KIM BOT"
-global.fake = "KIMBOT ~ MD"
-global.namebot = "KIMBOTZ"
+global.owner = ['6289647417373']
+global.footer = "BNTG BOT"
+global.fake = "BNTGBOTZ ~ MD"
+global.namebot = "BNTGBOTZ"
 global.packname = "Own Siapa?? Bintangp02\nMau nomor nya? 089647417373\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
 global.packname2 = "BY Bntgp02"
 global.author = "Bintangp02"
