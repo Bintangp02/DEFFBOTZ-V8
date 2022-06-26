@@ -11,7 +11,6 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
-RUN npm install -g npm@latest
 RUN npm install
 RUN npm install pm2 -g
 ENV PM2_PUBLIC_KEY wckctc2403tx929
