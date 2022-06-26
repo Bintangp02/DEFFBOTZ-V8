@@ -13,9 +13,9 @@ RUN apt-get update && \
 COPY package.json .
 RUN npm install -g npm@latest
 RUN npm install
-RUN npm instal pm2 -g
-ENV PM2_PUBLIC_KEY r5nhytflswo1ly3
-ENV PM2_SECRET_KEY cygkc3bz1dww20f
+RUN npm install pm2 -g
+ENV PM2_PUBLIC_KEY wckctc2403tx929
+ENV PM2_SECRET_KEY 7yg6gv2apd911uu
 
 COPY . .
 EXPOSE 5000
